@@ -11,7 +11,7 @@ https://d-bot.woza.work/
 
 D-Bot is a chatbot for practicing spoken German. There's no fixed course or lesson plan. You just talk naturally and D-Bot responds with both text and voice.
 
-Many learners know English grammar, but find it hard to get real-world conversation practice. Also, many are shy or anxious about making mistakes in front of others.
+Many learners may know German grammar, but find it hard to get real-world conversation practice. Also, many are shy or anxious about making mistakes in front of others.
 
 D-Bot tries to solve these problems by providing a patient, private and low-stress way to practice German conversation on a phone or on a desktop computer.
 
