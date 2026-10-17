@@ -4,24 +4,20 @@ Deutsch Bot (D-Bot) is a free AI powered chatbot for practicing German conversat
 <img src="images/image1.png" alt="App screenshot" width="300">
 
 Live Demo:<br>
-<img src="images/image2.png" alt="QR Code" width="150"> <br>
+<img src="images/imagex.png" alt="QR Code" width="150"> <br>
 https://d-bot.woza.work/
-
-
-
-E-Bot is a chatbot for practicing spoken English. There's no fixed course or lesson plan. You just talk naturally and E-Bot responds with both text and voice.
-
-Many learners know English grammar, but find it hard to get real-world conversation practice. Also, many are shy or anxious about making mistakes in front of others.
-
-E-Bot tries to solve these problems by providing a patient, private and low-stress way to practice English conversation on a phone or on a desktop computer.
-
-E-bot is powered by the Qwen3.5-Flash model served via OpenRouter. This is a fast and powerful AI model that currently costs a fraction of a cent per request (https://openrouter.ai/qwen/qwen3.5-flash-02-23). Also, instead of using paid speech-to-text (STT) and text-to-speech (TTS) services, this solution uses Javascript SpeechRecognition and Javascript SpeechSynthesis. Both are built into the browser and are free. One downside is that voice quality can sometimes sound robotic - depends on the browser and on the operating system being used. 
-
-This is a zero friction solution - nothing to download, no registration, no login, no rate limits, no marketing landing page. The user just goes to the website and starts talking.
 
 <br>
 
-> The E-Bot workflow can be easily modified to help users practice other languages besides English. In fact, because the API costs are low, I think this could be a good classroom project for international schools - combining coding, AI and social impact. 
+D-Bot is a chatbot for practicing spoken German. There's no fixed course or lesson plan. You just talk naturally and D-Bot responds with both text and voice.
+
+Many learners know English grammar, but find it hard to get real-world conversation practice. Also, many are shy or anxious about making mistakes in front of others.
+
+D-Bot tries to solve these problems by providing a patient, private and low-stress way to practice German conversation on a phone or on a desktop computer.
+
+D-bot is powered by the Qwen3.5-Flash model served via OpenRouter. This is a fast and powerful AI model that currently costs a fraction of a cent per request (https://openrouter.ai/qwen/qwen3.5-flash-02-23). Also, instead of using paid speech-to-text (STT) and text-to-speech (TTS) services, this project uses Javascript SpeechRecognition and Javascript SpeechSynthesis. Both are built into the browser and are free. 
+
+This is a zero friction solution - nothing to download, no registration, no login, no rate limits, no marketing landing page. The user just goes to the website and starts talking.
 
 <br>
 <br>
@@ -50,7 +46,7 @@ This is a zero friction solution - nothing to download, no registration, no logi
 - Mobile optimized web app
 - Supports both voice and text
 - Supports images e.g. upload a photo of a menu and roleplay ordering from it.
-- Translates English responses into the user's native language. Supports 86 languages.
+- Translates German responses into the user's native language. Supports 86 languages.
 - Corrects the user's spelling and grammar errors without disturbing the conversation flow.
 - Click any response to replay the audio
 - Minimalist UI design with light and dark modes
@@ -75,17 +71,12 @@ This is a zero friction solution - nothing to download, no registration, no logi
 <br>
 
 ## Notes
-- This solution needs to be validated. The pain point exists, but does this approach effectively solve it for users who are highly motivated English learners?
-- This app needs to be beta tested by non-english speakers under real world conditions e.g. using their own mobile devices.
-- Need to test how well the STT system handles accented English and non-standard English pronounciations e.g. mo-char versus mo-car (coffee)
-- The API cost needs to be monitored.
-- The voice quality on mobile (Android) is much better than that on desktop.
-- The voice type and gender will vary across devices and across operating systems. This will be an issue with languages that have gender specific ways of speaking e.g. Thai.
-- The app is non-profit with no ads, but it depends on a paid third-party AI model. Therefore, it's not clear how API costs and hosting costs will be covered as usage grows.
+- This solution needs to be validated. The pain point exists, but does this approach effectively solve it for users who are highly motivated German learners?
+- This app needs to be beta tested by learners under real world conditions e.g. using their own mobile devices.
+- The voice type and gender may vary across devices and across operating systems.
 - The current design is focused on serving motivated, self-directed learners. There's no lesson plan, no gamification, no streaks, and no external prompts to come back. This fact needs to be borne in mind when selecting beta testers - unless there are technical problems, just because someone loses interest in the app doesn't mean it's bad. It could mean that that person is just not who this app was built for.
-- Tested the app using the Brave browser on Andriod. It works well. There's no frustrating bloat and clutter like there is on more main stream browsers.
-- The API key can be easily stolen if the ebot_config.ini file is located inside the website root folder therefore, always locate this file outside the website root folder.
-- The latest version of the Chrome desktop browser includes built in high quality TTS voices e.g. Google US English. Therefore, Google Chrome will provide the best user experience. Previously high quality built in voice was only available on Android.
+- The API key can be stolen if the ebot_config.ini file is located inside the website root folder therefore, always locate this file outside the website root folder.
+- The latest version of the Chrome desktop browser includes built in high quality TTS voices e.g. Google Deutsch. Therefore, Google Chrome will provide the best desktop user experience. Previously high quality built in voice was only available on Android.
 <br>
 
 ## Revision History
