@@ -77,6 +77,11 @@ This is a zero friction solution - nothing to download, no registration, no logi
 - The current design is focused on serving motivated, self-directed learners. There's no lesson plan, no gamification, no streaks, and no external prompts to come back. This fact needs to be borne in mind when selecting beta testers - unless there are technical problems, just because someone loses interest in the app doesn't mean it's bad. It could mean that that person is just not who this app was built for.
 - The API key can be stolen if the ebot_config.ini file is located inside the website root folder therefore, always locate this file outside the website root folder.
 - The latest version of the Chrome desktop browser includes built in high quality TTS voices e.g. Google Deutsch. Therefore, Google Chrome will provide the best desktop user experience. Previously high quality built in voice was only available on Android.
+  
+<br>
+
+## References
+
 <br>
 
 ## Revision History
