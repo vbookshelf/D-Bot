@@ -4,7 +4,7 @@ Deutsch Bot (D-Bot) is a free AI powered chatbot for practicing German conversat
 <img src="images/image1.png" alt="App screenshot" width="300">
 
 Live Demo:<br>
-<img src="images/image6.png" alt="App screenshot" width="150"> <br>
+<img src="images/image2.png" alt="QR Code" width="150"> <br>
 https://d-bot.woza.work/
 
 
