@@ -82,6 +82,9 @@ This is a zero friction solution - nothing to download, no registration, no logi
 
 ## References
 
+- E-Bot English Practice Chatbot<br>
+https://github.com/vbookshelf/E-Bot-2026
+
 <br>
 
 ## Revision History
