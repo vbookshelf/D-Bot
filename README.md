@@ -22,23 +22,8 @@ This is a zero friction solution - nothing to download, no registration, no logi
 <br>
 <br>
 
-<img src="images/imagex.png" alt="App screenshot" height="500">
-<p>Dark mode</p>
-
-<br>
-
-<img src="images/image3.png" alt="App screenshot" height="500">
-<p>Correction and translation</p>
-
-<br>
-
-<img src="images/image5.png" alt="App screenshot" height="500">
-<p>Supports images</p>
-
-<br>
-
 <img src="images/image4.png" alt="App screenshot" height="500">
-<p>Ready-made exercises</p>
+<p>Minimalist mobile optimized UI</p>
 
 <br>
 
