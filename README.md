@@ -1,7 +1,7 @@
 # Deutsch Bot - Practice German Conversation
 Deutsch Bot (D-Bot) is a free AI powered chatbot for practicing German conversation. It's designed to help nurses and other skilled people in developing countries learn German so they can work in Germany.
 
-<img src="images/image3.jpeg" alt="App screenshot" width="500">
+<img src="images/image3.jpeg" alt="A bot and a nurse" width="500">
 
 Live Demo:<br>
 <img src="images/image2.png" alt="QR Code" width="150"> <br>
