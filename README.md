@@ -61,7 +61,6 @@ This is a zero friction solution - nothing to download, no registration, no logi
 <br>
 
 ## Notes
-- This solution needs to be validated. The pain point exists, but does this approach effectively solve it for users who are highly motivated German learners?
 - This app needs to be tested by learners under real world conditions e.g. using their own mobile devices.
 - The voice type and gender may vary across devices and across operating systems.
 - The current design is focused on serving motivated, self-directed learners. There's no lesson plan, no gamification, no streaks, and no external prompts to come back. This fact needs to be borne in mind when selecting beta testers - unless there are technical problems, just because someone loses interest in the app doesn't mean it's bad. It could mean that that person is just not who this app was built for.
