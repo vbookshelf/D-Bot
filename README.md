@@ -9,13 +9,13 @@ https://d-bot.woza.work/
 
 <br>
 
-D-Bot is a chatbot for practicing spoken German. There's no fixed course or lesson plan. You just talk naturally and D-Bot responds with both text and voice.
+D-Bot is a chatbot for practicing spoken German. There's no fixed course or lesson plan. Talk naturally and D-Bot responds with both text and voice.
 
 Many learners may know German grammar, but find it hard to get real-world conversation practice. Also, many are shy or anxious about making mistakes in front of others.
 
 D-Bot tries to solve these problems by providing a patient, private and low-stress way to practice German conversation on a phone or on a desktop computer.
 
-D-bot is powered by the Qwen3.5-Flash model served via OpenRouter. This is a fast and powerful AI model that currently costs a fraction of a cent per request (https://openrouter.ai/qwen/qwen3.5-flash-02-23). Also, instead of using paid speech-to-text (STT) and text-to-speech (TTS) services, this project uses Javascript SpeechRecognition and Javascript SpeechSynthesis. Both are built into the browser and are free. 
+D-bot is powered by the Qwen3.5 and Qwen3.7 Flash models served via OpenRouter. These are fast and powerful AI models that cost a fraction of a cent per request. Also, instead of using paid speech-to-text (STT) and text-to-speech (TTS) services, this project uses Javascript SpeechRecognition and Javascript SpeechSynthesis. Both are built into the browser and are free. 
 
 This is a zero friction solution - nothing to download, no registration, no login, no rate limits, no marketing landing page. The user just goes to the website and starts talking.
 
