@@ -22,7 +22,11 @@ This is a zero friction solution - nothing to download, no registration, no logi
 <br>
 <br>
 
-<img src="images/image4.png" alt="App screenshot" height="500">
+<img src="images/image5.png" alt="App mobile screenshot" height="500">
+
+<br>
+
+<img src="images/image4.png" alt="App desktop screenshot" height="500">
 <p>Minimalist mobile optimized UI</p>
 
 <br>
