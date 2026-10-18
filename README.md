@@ -34,6 +34,7 @@ This is a zero friction solution - nothing to download, no registration, no logi
 ## Quick Info
 - Mobile optimized web app
 - Supports both voice and text
+- Supports both formal and informal German
 - Supports images e.g. upload a photo of a menu and roleplay ordering from it.
 - Translates German responses into the user's native language. Supports 86 languages.
 - Corrects the user's spelling and grammar errors without disturbing the conversation flow.
