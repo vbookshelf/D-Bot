@@ -74,6 +74,9 @@ This is a zero friction solution - nothing to download, no registration, no logi
 - E-Bot English Practice Chatbot<br>
 https://github.com/vbookshelf/E-Bot-2026
 
+- List of Free Language Practice Chatbots<br>
+https://github.com/vbookshelf/List-of-Free-Language-Practice-Chatbots
+
 <br>
 
 ## Revision History
